@@ -1,0 +1,11 @@
+siteTitle="J. Rick Ramstetter"
+baseColor = "#222222"
+linkPrefix = "/"
+docPages = [
+  "/",
+  "/services/",
+  "/open-source/",
+  "/about/",
+  "/pgp-ca/",
+  "/contact/",
+]
