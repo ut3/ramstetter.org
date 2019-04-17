@@ -6,7 +6,7 @@ title: Contact Information
 
 rick@ramstetter.com
 
-You can encrypt emails to me using GPG
+You can encrypt emails to me using GPG\
 Key fingerprint = 0xF58818CBFB5C8C8E\
 Available [at the MIT keyserver](https://pgp.mit.edu/pks/lookup?op=vindex&search=0xF58818CBFB5C8C8E)
 
