@@ -4,7 +4,7 @@ title: Contact Information
 
 ## Email
 
-rick@ramstetter.com
+rick@anteaterllc.com
 
 You can encrypt emails to me using GPG\
 Key fingerprint = 0xF58818CBFB5C8C8E\
